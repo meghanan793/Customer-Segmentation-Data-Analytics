@@ -28,6 +28,14 @@ Mall Customers dataset containing:
 ## Results
 Customers were divided into clusters based on spending behavior and income levels, helping businesses identify target marketing groups.
 
+## Visualizations
+
+### Elbow Method
+![Elbow Method](elbowmethod.png)
+
+### Customer Segmentation Clusters
+![Customer Segmentation](customersegmentationvisualization.png)
+
 ## Project Files
 - Customer_Segmentation_KMeans_Project.ipynb
 - Mall_Customers.csv
